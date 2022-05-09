@@ -1,0 +1,10 @@
+C:\Users\cesar\source\repos\EX. ORD2\bin\Debug\EX.ORD2.exe.config
+C:\Users\cesar\source\repos\EX. ORD2\bin\Debug\EX.ORD2.exe
+C:\Users\cesar\source\repos\EX. ORD2\bin\Debug\EX.ORD2.pdb
+C:\Users\cesar\source\repos\EX. ORD2\obj\Debug\EX. ORD2.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\EX. ORD2\obj\Debug\EX.ORD2.Properties.Resources.resources
+C:\Users\cesar\source\repos\EX. ORD2\obj\Debug\EX. ORD2.csproj.GenerateResource.cache
+C:\Users\cesar\source\repos\EX. ORD2\obj\Debug\EX. ORD2.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\EX. ORD2\obj\Debug\EX.ORD2.exe
+C:\Users\cesar\source\repos\EX. ORD2\obj\Debug\EX.ORD2.pdb
+C:\Users\cesar\source\repos\EX. ORD2\obj\Debug\EX.ORD2.inicio_frm.resources

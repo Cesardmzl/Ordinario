@@ -1,0 +1,10 @@
+C:\Users\cesar\source\repos\EXAMEN ORD1\bin\Debug\EXAMEN ORD1.exe.config
+C:\Users\cesar\source\repos\EXAMEN ORD1\bin\Debug\EXAMEN ORD1.exe
+C:\Users\cesar\source\repos\EXAMEN ORD1\bin\Debug\EXAMEN ORD1.pdb
+C:\Users\cesar\source\repos\EXAMEN ORD1\obj\Debug\EXAMEN ORD1.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\EXAMEN ORD1\obj\Debug\EXAMEN_ORD1.Form1.resources
+C:\Users\cesar\source\repos\EXAMEN ORD1\obj\Debug\EXAMEN_ORD1.Properties.Resources.resources
+C:\Users\cesar\source\repos\EXAMEN ORD1\obj\Debug\EXAMEN ORD1.csproj.GenerateResource.cache
+C:\Users\cesar\source\repos\EXAMEN ORD1\obj\Debug\EXAMEN ORD1.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\EXAMEN ORD1\obj\Debug\EXAMEN ORD1.exe
+C:\Users\cesar\source\repos\EXAMEN ORD1\obj\Debug\EXAMEN ORD1.pdb
